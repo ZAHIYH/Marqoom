@@ -1,4 +1,4 @@
-const CACHE_NAME = "marqoom-cache-v1";
+const CACHE_NAME = "marqoom-cache-v2";
 const ASSETS = [
   "./",
   "./index.html",
